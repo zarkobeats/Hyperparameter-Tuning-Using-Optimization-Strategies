@@ -1,0 +1,27 @@
+Distribution of Workload
+
+To ensure an even division of tasks, we split the workload approximately 50/50. Below is a breakdown of responsibilities:
+
+
+
+Stoyan:
+
+- Wrote the functions: load_data, baseline_model, and run_optimization
+
+- Ran optimizations and adjusted hyperparameters
+
+- Created all plots and visualizations
+
+- Analysed the plots
+
+
+
+Zarin:
+
+- Wrote the functions: grid_search, random_search, and bayesian_search
+
+- Ran optimizations and adjusted hyperparameters
+
+- Analysed the plots
+
+- Wrote the final report with the methodology, results, and conclusions

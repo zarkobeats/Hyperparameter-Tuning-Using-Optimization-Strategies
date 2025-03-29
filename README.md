@@ -19,4 +19,8 @@ pip install -r requirements.txt
 
 ## Run
 
-To run the project just click the button Run all in Jupyter notebook!
+To run the `project.ipynb` just click the button Run all in Jupyter notebook!
+
+## DIstribution of workload
+
+The distribution of workload is written in the file `distribution_of_workload.txt`
